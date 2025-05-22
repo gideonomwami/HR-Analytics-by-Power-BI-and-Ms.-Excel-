@@ -16,4 +16,4 @@ This Power BI HR dashboard analyzes company workforce data to:
 - Created relationships between tables for job roles, education fields, and age groups.
 - Developed custom measures for visualizing age band segmentation and gender breakdown.
 ## Power BI Dashboard 
-- <a href="https://github.com/gideonomwami/Ms-Excel-and-Power-BI-Supermarket-Sales-project/blob/main/Dashboard%201.png">Sales Overview</a>
+- <a href="https://github.com/gideonomwami/HR-Analytics-by-Power-BI-and-Ms.-Excel-/blob/main/Screenshot%202025-05-21%20150025.png">HR Analytics Dashboard</a>
