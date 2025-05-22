@@ -17,3 +17,11 @@ This Power BI HR dashboard analyzes company workforce data to:
 - Developed custom measures for visualizing age band segmentation and gender breakdown.
 ## Power BI Dashboard 
 - <a href="https://github.com/gideonomwami/HR-Analytics-by-Power-BI-and-Ms.-Excel-/blob/main/Screenshot%202025-05-21%20150025.png">HR Analytics Dashboard</a>
+## Key Findings from the Dashboard
+- The organization has a total workforce of 1,470 employees, with an attrition rate of 16.12%.
+- R&D and Sales departments are most affected by attrition, accounting for over 90% of total exits.
+-	Employees aged 25–34 experience the highest attrition, with younger staff (under 35) comprising over 60% of total attrition cases.
+-	Male employees are more likely to leave in younger age groups, while older female employees (55+) show a significantly high attrition rate (72.73%).
+-	Life Sciences and Medical education backgrounds are associated with the highest attrition rates.
+-	Research Scientists and Laboratory Technicians report the highest job satisfaction scores overall.
+-	Sales Executives and Human Resources staff exhibit lower satisfaction, with a higher frequency of low satisfaction ratings.
