@@ -35,5 +35,6 @@ This Power BI HR dashboard analyzes company workforce data to:
 ## Conclusion
 By leveraging Power BI to visualize and explore HR data, the organization gains a clear view of employee lifecycle dynamics.
 These insights enable data-driven decisions for reducing turnover, enhancing job satisfaction, and shaping a resilient, future-ready workforce.
-
+## Dashboard 
+![Dashboard 1](https://github.com/gideonomwami/HR-Analytics-by-Power-BI-and-Ms.-Excel-/blob/main/Screenshot%202025-05-21%20150025.png)
 
